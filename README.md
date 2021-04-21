@@ -40,7 +40,7 @@ Retiring Employees in Sales and Development Departments
 <img src="images/retiring_employees_first_year_salary.PNG"></img>
 <img src="images/retiring_employees_first_year_salary2.PNG"></img>
 
-- At last, having a closer look at the initial table counts of retiring employees by job title (see below screenshots) reveals that 17,940 of the "retiring employees" have no departments associated with their titles. This is because these employees are no longer with the company (The initial query for "requirement_unique_titles" take into account of the employee's status). As such, we should adjust the number of employees to be replaced from 90,398 to 72,458, with the majority of retireing employees coming from the Developement, Production, and Sales departments.
+- At last, having a closer look at the initial table counts of retiring employees by job title (see below screenshots) reveals that 17,940 of the "retiring employees" have no departments associated with their titles. This is because these employees are no longer with the company (The initial query for "requirement_unique_titles" did not take into account of the employee's status). As such, we should adjust the number of employees to be replaced from 90,398 to 72,458, with the majority of retireing employees coming from the Developement, Production, and Sales departments.
 
 Number of Retiring Employees by Job Title
 
